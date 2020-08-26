@@ -1,0 +1,4 @@
+en el phpmyadmin, crear una base de datos con el nombre : bdprueba 
+	una vez dentro, importa el archivo bdprueba.sql
+listo xd
+ya tiene la bd en su mysql 
